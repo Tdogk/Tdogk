@@ -1,15 +1,11 @@
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Análise e Desenvolvimento de Sistemas (1/5) 
+- 🌱 Estudante Análise e Desenvolvimento de Sistemas (1/5)
 <div align="center">
   <a href="https://github.com/tdogk"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tdogk&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdogk&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
-<div style="display: inline_block"><br>
-   <img align="center" alt="Tdog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
 
 ##
 <div>
