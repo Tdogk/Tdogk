@@ -1,5 +1,4 @@
 
-- 🌱 Estudante Análise e Desenvolvimento de Sistemas (1/5)
 <div align="center">
   <a href="https://github.com/tdogk"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tdogk&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
